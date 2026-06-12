@@ -13,5 +13,5 @@ logs/
 
 # Claude 
 .claude/
-# OPTIONAL: Remove '#' to keep CLAUDE.md in the repository
+# OPTIONAL: Remove '#' to ignore CLAUDE.md in the repository
 # CLAUDE.md
